@@ -14,5 +14,5 @@
   setInterval(() => {
     console.log('Attempting to click the "Save as Draft" button.');
     clickSaveDraftButton();
-  }, 30000); // 3000 milliseconds = 3 seconds
+  }, 15000); // 3000 milliseconds = 3 seconds
 })();
